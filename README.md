@@ -1,0 +1,1 @@
+# formatacoes_condicionais_e_validacoes_de_-dados_no_excel
